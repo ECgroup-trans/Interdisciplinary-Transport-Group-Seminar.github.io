@@ -371,3 +371,6 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+td, th {
+      text-align: center; 
+    }
