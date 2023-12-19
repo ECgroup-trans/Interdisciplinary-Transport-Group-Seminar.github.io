@@ -352,9 +352,9 @@ table + table {
     margin-top: 1em;
 }
 
-table#tabList1{
+#tabList1 {
     margin-top: 1em;
-	margin-left: 30em;
+	margin-left: 50px;
 }
 
 tr.heading {
