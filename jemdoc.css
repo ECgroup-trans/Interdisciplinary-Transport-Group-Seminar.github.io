@@ -129,7 +129,7 @@ h1, h2, h3 {
 
 h1 {
 	font-size: 165%;
-	color: #C41230;
+	color: red;
 }
 
 h2 {
@@ -370,7 +370,8 @@ img {
 
 table.imgtable, table.imgtable td {
     border: none;
-    text-align: left;vertical-align: middle; 
+    text-align: left;
+    vertical-align: middle; 
 }
 td, th {
       text-align: center; 
