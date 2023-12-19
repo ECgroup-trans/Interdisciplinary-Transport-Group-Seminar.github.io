@@ -10,7 +10,7 @@ body {
 	background: white;
 	font-family: Georgia, serif;
 	padding-bottom: 8px;
-	margin: 20px;
+	margin: 0;
 }
 
 #layout-menu {
@@ -350,6 +350,7 @@ td {
 
 table + table {
     margin-top: 1em;
+    margin-left: 1em;
 }
 
 tr.heading {
