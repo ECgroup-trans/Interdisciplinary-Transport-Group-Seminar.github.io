@@ -371,6 +371,7 @@ img {
 table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
+    color: #C41230;
 }
 td, th {
       text-align: center; 
