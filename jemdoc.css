@@ -372,8 +372,6 @@ table.imgtable, table.imgtable td {
     border: none;
     vertical-align: middle;
     text-align: left;
-    height: 100px;
-    line-height: 100px;
 }
 td, th {
       text-align: center; 
