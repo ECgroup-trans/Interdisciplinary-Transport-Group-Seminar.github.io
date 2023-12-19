@@ -399,7 +399,7 @@ td, th {
     }
 
     .fixed-div a {
-      color: #ff0000;
+      color: orange;
 	    font-weight: bold;
 	    font-size: 16px;
     }
