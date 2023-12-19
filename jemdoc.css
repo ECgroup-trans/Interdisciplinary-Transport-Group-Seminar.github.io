@@ -397,3 +397,9 @@ td, th {
 	font-size: 16px;
 	text-align: center;
     }
+
+    .fixed-div a {
+      color: #ff0000;
+	    font-weight: bold;
+	    font-size: 16px;
+    }
