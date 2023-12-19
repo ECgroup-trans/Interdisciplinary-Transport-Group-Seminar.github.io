@@ -390,7 +390,6 @@ td, th {
       position: fixed;
       bottom: 20px;
       right: 20px;
-      background-color: #f2f2f2;
       padding: 10px;
     }
 #fixed-div a {
@@ -399,11 +398,4 @@ td, th {
       font-weight: bold;
       text-decoration: none;
 	font-size: 16px;
-    }
-.arrow-up {
-      width: 0;
-      height: 0;
-      border-left: 5px solid transparent;
-      border-right: 5px solid transparent;
-      border-bottom: 10px solid orange;
     }
