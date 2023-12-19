@@ -350,7 +350,11 @@ td {
 
 table + table {
     margin-top: 1em;
-    margin-left: 1em;
+}
+
+#tabList1{
+    margin-top: 1em;
+	margin-left: 10em;
 }
 
 tr.heading {
