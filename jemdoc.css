@@ -385,3 +385,13 @@ td, th {
       text-align: center; 
       vertical-align: middle;
     }
+#fixed-div {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      width: 200px;
+      height: 100px;
+      background-color: #f2f2f2;
+      border: 1px solid #ccc;
+      padding: 10px;
+    }
