@@ -167,6 +167,12 @@ div#footer {
 	color: #c0c0c0;
 }
 
+div#hidecat {
+	font-size: small;
+	padding-top: 0.1em;
+	margin-top: 0.1em;
+}
+
 div#footer a {
 	color: #80a0b0;
 }
