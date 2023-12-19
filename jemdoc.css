@@ -96,13 +96,6 @@ div#toptitle {
 	border-bottom: 3px double gray;
 }
 
-#toptitle .imgs{
-        display: inline-block;
-        vertical-align: middle;
-    }
-#toptitle .infos{
-        display: inline-block;
-    }
 
 /* Reduce space if we begin the page with a title. */
 div#toptitle + h2, div#toptitle + h3 {
