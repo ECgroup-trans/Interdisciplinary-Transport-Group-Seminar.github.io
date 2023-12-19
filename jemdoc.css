@@ -370,8 +370,8 @@ img {
 
 table.imgtable, table.imgtable td {
     border: none;
-    text-align: left;
     vertical-align: middle;
+    text-align: left;
 }
 td, th {
       text-align: center; 
