@@ -388,8 +388,8 @@ table.tabList1 {
       width: 400px; 
     }
 div.table-container {
-      display: flex;
-      justify-content: space-between;
+/*       display: flex; */
+/*       justify-content: space-between; */
 	margin-left: 50px;
 	margin-top: 1em;
 	display: inline-block;
