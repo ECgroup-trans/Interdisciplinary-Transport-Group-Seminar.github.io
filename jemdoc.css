@@ -363,9 +363,9 @@ table + table {
     margin-top: 1em;
 }
 
-.tabList1 {
+table.tabList1 {
     margin-top: 1em;
-	margin-left: 20px;
+	margin-left: 50px;
 }
 
 tr.heading {
