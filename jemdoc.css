@@ -392,6 +392,8 @@ div.table-container {
       justify-content: space-between;
 	margin-left: 50px;
 	margin-top: 1em;
+	display: inline-block;
+      vertical-align: top;
 }
     }
 tr.heading {
