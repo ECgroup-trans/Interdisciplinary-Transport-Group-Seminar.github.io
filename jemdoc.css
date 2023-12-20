@@ -178,7 +178,7 @@ div#hidecat {
 }
 div#volunteerPre {
 	font-size: 20px;
-	padding-top: 0.1em;
+	padding-top: 3em;
 	margin-top: 3pt;
 	font-weight: bold;
 	color:red;
@@ -187,6 +187,7 @@ div#volunteerPre a {
 	font-weight: bold;
 	font-size: 20px;
 	color:red;
+	text-decoration: underline;
 }
 div#footer a {
 	color: #80a0b0;
