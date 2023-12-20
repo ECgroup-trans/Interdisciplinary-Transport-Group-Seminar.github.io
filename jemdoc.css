@@ -179,9 +179,9 @@ div#hidecat {
 div#volunteerPre {
 	font-size: 20px;
 	padding-top: 0.1em;
-	margin-top: 0.1em;
+	margin-top: 3pt;
 	font-weight: bold;
-	color: #8b0000;
+	color:red;
 }
 div#footer a {
 	color: #80a0b0;
@@ -375,7 +375,12 @@ table.tabList1 {
     margin-top: 1em;
 	margin-left: 50px;
 }
-
+.table-container {
+      display: flex;
+      justify-content: space-between;
+	margin-left: 50px;
+}
+    }
 tr.heading {
     font-weight: bold;
     border-bottom: 2px solid black;
@@ -408,7 +413,4 @@ td, th {
 	font-size: 16px;
     }
 
-.table-container {
-      display: flex;
-      justify-content: space-between;
-    }
+
