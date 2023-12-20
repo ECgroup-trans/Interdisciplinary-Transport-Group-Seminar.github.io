@@ -382,10 +382,10 @@ table.tabList1 {
 	margin-left: 50px;
 }
 .col1 {
-      width: 100px; 
+      width: 300px; 
     }
 .col2 {
-      width: 200px; 
+      width: 350px; 
     }
 div.table-container {
       display: flex;
