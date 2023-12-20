@@ -176,7 +176,13 @@ div#hidecat {
 	font-weight: bold;
 	color: #8b0000;
 }
-
+div#volunteerPre {
+	font-size: 18px;
+	padding-top: 0.1em;
+	margin-top: 0.1em;
+	font-weight: bold;
+	color: #8b0000;
+}
 div#footer a {
 	color: #80a0b0;
 }
