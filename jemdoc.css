@@ -385,6 +385,7 @@ div.table-container {
       display: flex;
       justify-content: space-between;
 	margin-left: 50px;
+	margin-top: 1em;
 }
     }
 tr.heading {
